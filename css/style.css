@@ -1,0 +1,39 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+.navbar-brand {
+    height: 80px;
+}
+
+.container-main {
+    max-width: 80vw;
+    margin: 0 auto;
+}
+
+body {
+    padding: 0px;
+}
+
+header {
+    background-image: url(https://images6.alphacoders.com/133/1331511.png);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    margin-bottom: 20px;
+}
+
+.column {
+    border: 3px black solid;
+    border-radius: 8px;
+    padding: 0px;
+    margin: 5px;
+    background-color: white;
+}
+
+footer {
+    margin-top: 50px;
+    height: 10vh;
+}
+
+footer a {
+    padding: 0px 10% 0 10%;
+}
